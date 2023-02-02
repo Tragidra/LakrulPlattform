@@ -1,0 +1,15 @@
+Sitemap: https://trends.ambalytics.com/sitemap.xml
+User-Agent: Googlebot
+Allow:/*about$
+Allow:/#*
+Allow:/*covid*
+Allow:/*publications*
+Allow:/*authors*
+Allow:/*fieldsOfStudy*
+User-Agent: Googlebot-News
+Allow:/*about$
+Allow:/#*
+Allow:/*covid*
+Allow:/*publications*
+Allow:/*authors*
+Allow:/*fieldsOfStudy*
